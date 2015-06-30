@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin>
+    <information>
+        <name>Twenty Fifteen</name>
+        <version>1.0</version>
+        <description>
+            <![CDATA[ Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer. ]]>
+        </description>
+        <license>
+            <![CDATA[wordpress.org]]>
+        </license>
+    </information>
+    <author>
+        <name>KyuHyuk Lee</name>
+        <homepage>http://kyuhyuk.kr</homepage>
+        <email>lee@kyuhyuk.kr</email>
+    </author>
+    <default>
+        <recentEntries>5</recentEntries>
+        <recentComments>1</recentComments>
+        <recentTrackbacks>1</recentTrackbacks>
+        <itemsOnGuestbook>1</itemsOnGuestbook>
+        <tagsInCloud>30</tagsInCloud>
+        <sortInCloud>3</sortInCloud>
+        <expandComment>0</expandComment>
+        <expandTrackback>0</expandTrackback>
+        <lengthOfRecentNotice>32</lengthOfRecentNotice>
+        <lengthOfRecentEntry>32</lengthOfRecentEntry>
+        <lengthOfRecentComment>32</lengthOfRecentComment>
+        <lengthOfRecentTrackback>32</lengthOfRecentTrackback>
+        <lengthOfLink>30</lengthOfLink>
+        <showListOnCategory>0</showListOnCategory>
+        <showListOnArchive>0</showListOnArchive>
+        <tree>
+            <labelLength>27</labelLength>
+            <showValue>0</showValue>
+        </tree>
+        <contentWidth>1980</contentWidth>
+    </default>
+</skin>
